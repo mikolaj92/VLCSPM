@@ -1,0 +1,8 @@
+*.DS_Store
+xcuserdata/
+.bundle/
+.build/
+.swiftpm/
+Package.resolved
+*.app.dSYM.zip
+*.ipa
